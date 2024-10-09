@@ -1,5 +1,6 @@
 package simulation;
 
+// 문제 2 : 청소
 import java.util.*;
 			class Solution2 {
 				public int[] solution(int[][] board, int k){

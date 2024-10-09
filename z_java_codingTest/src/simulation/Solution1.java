@@ -1,6 +1,8 @@
 package simulation;
 
 import java.util.*;
+
+// 문제 1 : 사다리 타기
 class Solution1 {
 	
 						public char[] solution(int n, int[][] ladder){
